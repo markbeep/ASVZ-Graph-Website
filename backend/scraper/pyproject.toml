@@ -16,7 +16,7 @@ psycopg2 = "^2.9.6"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.15.10"
-black = "^23.0.0"
+black = "^24.0.0"
 
 [build-system]
 requires = ["poetry-core", "poetry>=1.3"]
