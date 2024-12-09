@@ -1,4 +1,4 @@
-FROM node:20-bullseye-slim as build-stage
+FROM node:22-bullseye-slim as build-stage
 
 WORKDIR /app
 
