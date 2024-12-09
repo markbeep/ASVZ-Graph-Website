@@ -37,7 +37,7 @@
         "google-protobuf": "^3.21.2",
         "grpc-tools": "^1.12.4",
         "grpc-web": "^1.4.2",
-        "next": "^13.4.6",
+        "next": "^14.0.0",
         "next-plausible": "^3.11.1",
         "postcss": "^8.4.24",
         "protoc-gen-grpc-web": "^1.4.2",
