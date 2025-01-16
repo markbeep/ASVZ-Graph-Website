@@ -9,7 +9,7 @@ services:
         condition: service_healthy
   psql:
     container_name: psql-scraper
-    image: postgres:16.0-alpine3.17
+    image: postgres:16.1-alpine3.17
     volumes:
       - ../data/sql:/var/lib/postgresql/data
     env_file:
